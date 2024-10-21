@@ -1,2 +1,2 @@
 # Bros_Barbershop
-A web desing project created to enhance my learning process.
+A web desing project created to facilitate my learning process.
